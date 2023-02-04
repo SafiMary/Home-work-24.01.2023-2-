@@ -1,8 +1,6 @@
 #include "Bike.h"
 #include "IVehicle.h"
-#include <iostream>
-#include <string>
-#include <vector>
+
 
 
 Bike::Bike(size_t speed, const std::string& model) : _speed(speed), _model(model) {}

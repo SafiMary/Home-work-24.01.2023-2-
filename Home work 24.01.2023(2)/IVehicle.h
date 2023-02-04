@@ -1,9 +1,5 @@
 #pragma once
-//#include "Car.h"
-//#include "Car.cpp"
-//#include "Bike.h"
-//#include "Bike.cpp"
-#include <string>
+#include <iostream>
 
 class IVehicle
 {
